@@ -46,5 +46,5 @@ I'm also interested in Machine Learning and 3D modeling.
 * [Linkedin](https://www.linkedin.com/in/czanikan/)
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/gpl-3.0/)
 
